@@ -1,0 +1,189 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(236, 236, 236);
+    max-width: 1220px;
+    margin: 0 auto;
+    width: 90vw;
+    scroll-behavior: smooth;
+    transition-duration: 1s;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid rgba(53, 53, 53, 0.593);
+}
+
+#nav i{
+    margin: 2rem;
+    font-size: 2rem;
+    color: rgba(12, 99, 125, 0.593);
+}
+
+#nav form{
+    border: none;
+    margin-top: 2rem;
+    border-radius: 8px;
+
+}
+
+form input{
+    padding: 7px;
+    border-radius: 8px;
+    width: 300px;
+}
+
+.logo{
+    font-size: 30px;
+    margin-top: 1.7rem;
+    color: rgba(12, 99, 125, 0.593);
+    font-weight: bold;
+}
+
+.button{
+    width: 100px;
+    padding: 9px;
+    color: aliceblue;
+    background-color: rgba(7, 90, 115, 0.593);
+}
+
+.button:hover{
+    opacity: 0.9;
+}
+.hero {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin-top: 2rem;
+    padding: 4rem;
+}
+
+.hero-image{
+    width: 500px;
+}
+
+.hero-image img{
+    border-radius: 8px;
+    border: none;
+}
+
+.hero-content {
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+
+.hero-content h1 {
+    font-size: 45px;
+    font-weight: bold;
+    width: 400px;
+    line-height: 2.8rem;
+    margin-bottom: 1rem;
+}
+
+.span {
+    color:rgba(12, 99, 125, 0.593);
+}
+
+.hero-content p{
+    line-height: 1.2rem;
+    width: 400px;
+    margin-bottom: 1rem;
+}
+
+.cards{
+    gap: 1rem;
+}
+
+.how-content{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.how-content h1{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(12, 99, 125, 0.593);
+}
+
+.how-content p {
+    width: 600px;
+    margin-top: 1rem;
+    margin-left: 17rem;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-top: 2rem;
+}
+
+.card h3{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card img{
+    width: 100px;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
+
+.card p{
+    width: 400px;
+    margin-bottom: 1rem;
+}
+
+.call-to-action {
+    padding: 3rem;
+    margin-top: 2rem;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.cta-img{
+    width: 500px;
+}
+
+.cta-content{
+    margin-top: 7rem;
+    margin-left: 1rem;
+    text-align: center;
+}
+
+.cta-content h1{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 1rem;
+    color: rgba(12, 99, 125, 0.593);
+}
+
+.cta-content p{
+    margin-bottom: 1rem;
+}
+
+.cta-button{
+    width: 100px;
+    padding: 9px;
+    color: aliceblue;
+    background-color: rgba(7, 90, 115, 0.593);
+    margin-top: 1.5rem;
+    margin-left: 12rem;
+}
+
+
+.span1{
+    font-weight: bold;
+    font-size: 35px;
+    color:rgba(12, 99, 125, 0.593);
+}
+
+.footerBtn{
+    padding: 7px;
+    border-radius: 8px;
+    width: 300px;
+    border: none;
+}
