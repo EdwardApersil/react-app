@@ -3,13 +3,14 @@
 @tailwind utilities;
 
 body{
-    background-color: rgb(236, 236, 236);
+    background-color: grey;
     max-width: 1220px;
     margin: 0 auto;
     width: 90vw;
     scroll-behavior: smooth;
     transition-duration: 1s;
 }
+
 
 #nav{
     display: flex;
