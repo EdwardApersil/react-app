@@ -238,12 +238,12 @@ form input{
 }
 
 .cta-button button{
-    width: 100px;
+    width: 150px;
     padding: 9px;
     color: aliceblue;
     background-color: rgba(7, 90, 115, 0.593);
     margin-top: 1.5rem;
-    /* margin-left: 4rem; */
+    margin-left: 4rem;
     border-radius: 8px;
 }
 
