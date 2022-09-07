@@ -15,21 +15,21 @@ const New = () => {
                     <div className="card  shadow-lg">
                         <img className='shadow-lg' src={content1} alt="image" />
                         <h3>Sign-up</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui cumque est reiciendis ex, nisi iure repellat magnam voluptate debitis autem!</p>
+                        <p className=' text-gray-600 text-base pt-3 font-normal'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui cumque est reiciendis ex, nisi iure repellat magnam voluptate debitis autem!</p>
                         <Button />
                     </div>
 
                     <div className="card  shadow-lg">
                         <img className='shadow-lg' src={content2} alt="image" />
                         <h3>Login</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui cumque est reiciendis ex, nisi iure repellat magnam voluptate debitis autem!</p>
+                        <p className=" text-gray-600 text-base pt-3 font-normal">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui cumque est reiciendis ex, nisi iure repellat magnam voluptate debitis autem!</p>
                         <Button />
                     </div>
 
                     <div className="card shadow-lg">
                         <img className='shadow-lg' src={content3} alt="image" />
                         <h3>Search a Friend</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui cumque est reiciendis ex, nisi iure repellat magnam voluptate debitis autem!</p>
+                        <p className="t text-gray-600 text-base pt-3 font-normal">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui cumque est reiciendis ex, nisi iure repellat magnam voluptate debitis autem!</p>
                         <Button />
                     </div>
 

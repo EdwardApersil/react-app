@@ -15,7 +15,7 @@ const Cta = () => {
                     </div>
                 </div>
 
-                <div className="cta-img">
+                <div className="cta-img ">
                     <img src={content1} alt="image" />
                 </div>
             </div>
@@ -26,8 +26,8 @@ const Cta = () => {
 const Button = () => { 
     return (
         <>
-            <div className="cta-button  rounded-lg shadow-lg ">
-                <button>Learn more</button>
+            <div className="cta-button  rounded-lg ">
+                <button className='shadow-lg'>Learn more</button>
             </div>
         </>
     )

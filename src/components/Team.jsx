@@ -22,7 +22,7 @@ function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Andres Berlin</div>
                                     <p className="text-gray-800 text-sm text-center">Chief Executive Officer</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nulla facere repellendus mollitia accusamus nemo quisquam aut rerum animi ex?</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
@@ -61,7 +61,7 @@ function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Silene Tokyo</div>
                                     <p className="text-gray-800 text-sm text-center">Product Design Head</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">The emphasis on innovation and technology in our companies has resulted in a few of them establishing global benchmarks in product design and development.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nulla facere repellendus mollitia accusamus nemo quisquam aut rerum animi ex?</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
@@ -100,7 +100,7 @@ function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Johnson Stone</div>
                                     <p className="text-gray-800 text-sm text-center">Manager Development</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Our services encompass the assessment and repair of property damage caused by water, fire, smoke, or mold. We can also be a part of the restoration.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nulla facere repellendus mollitia accusamus nemo quisquam aut rerum animi ex?</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
@@ -139,7 +139,7 @@ function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Dean Jones</div>
                                     <p className="text-gray-800 text-sm text-center">Principal Software Engineer</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">An avid open-source developer who loves to be creative and inventive. I have 20 years of experience in the field.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nulla facere repellendus mollitia accusamus nemo quisquam aut rerum animi ex?</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
@@ -178,7 +178,7 @@ function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Rachel Adams</div>
                                     <p className="text-gray-800 text-sm text-center">Product Design Head</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Product designer with interests in immersive computing and XR, political ventures, and emerging technologies. Able to take ideas and give them a life.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nulla facere repellendus mollitia accusamus nemo quisquam aut rerum animi ex?</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
@@ -217,7 +217,7 @@ function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Charles Keith</div>
                                     <p className="text-gray-800 text-sm text-center">UX Designer</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">A UX designer is the voice of the customer. Our job is to look beyond the business goals. We don't just experience user interface but also questions it.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nulla facere repellendus mollitia accusamus nemo quisquam aut rerum animi ex?</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
